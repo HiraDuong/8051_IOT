@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1682478368 source:d:\8051\sdcc\main.c
+	<mcs51/8052.h>
+

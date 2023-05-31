@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1684900126 source:d:\8051\ds18b20\lcd1602.c
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"string.h"
+
+1683339443 d:\8051\ds18b20\lcd1602.h
+
+1684897697 source:d:\8051\ds18b20\main.c
+	<mcs51/8051.h>
+	"ds18b20.h"
+	"lcd1602.h"
+
+1684897453 d:\8051\ds18b20\ds18b20.h
+
+1684897756 source:d:\8051\ds18b20\ds18b20.c
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"ds18b20.h"
+
+1684900411 source:d:\8051\ds18b20\motor.c
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"DS18B20.H"
+	"motor.h"
+
+1684900403 d:\8051\ds18b20\motor.h
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"DS18B20.H"
+
